@@ -7,4 +7,4 @@ BASE_DIR="$(dirname "$CURRENT_DIR")"
 
 cd $BASE_DIR
 
-docker build --tag nlp_api --file docker/Dockerfile .
+docker build --tag orga_piness --file docker/Dockerfile .
