@@ -2,8 +2,8 @@
 
 ## Requirements
 
-- [Docker >= 17.05](https://www.python.org/downloads/release/python-381/)
-- [Python >= 3.7](https://www.python.org/downloads/release/python-381/)
+- [Docker >= 17.05](https://docs.docker.com/engine/release-notes/17.05/)
+- [Python >= 3.7](https://www.python.org/downloads/)
 - [Poetry](https://github.com/python-poetry/poetry)
 
 > **NOTE** - Run all commands from the project root

@@ -20,6 +20,8 @@ requests = "^2.27.1"
 slugify = "^0.0.1"
 bs4 = "^0.0.1"
 pynvim = "^0.4.3"
+fuzzywuzzy = "^0.18.0"
+python-Levenshtein = "^0.12.2"
 
 
 [tool.poetry.dev-dependencies]
